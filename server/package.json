@@ -10,7 +10,7 @@
     "seed": "node src/scripts/seed.js"
   },
   "keywords": ["crm", "leads", "express", "mongoose", "jwt", "future-interns"],
-  "author": "Edmund Wegasira",
+  "author": "Edmund Rwegasira",
   "license": "MIT",
   "dependencies": {
     "bcryptjs": "^2.4.3",

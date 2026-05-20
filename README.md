@@ -151,4 +151,4 @@ Set `CLIENT_ORIGIN` in `server/.env` to the portfolio's URL to keep CORS happy.
 
 ## Author
 
-**Edmund Wegasira** — Full Stack Web Development Intern @ Future Interns
+**Edmund Rwegasira** — Full Stack Web Development Intern @ Future Interns
